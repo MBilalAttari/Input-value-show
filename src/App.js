@@ -1,4 +1,3 @@
-import { useState } from "react";
 import InputSection from "./component/InputSection";
 import "./App.css";
 const App =()=>{
